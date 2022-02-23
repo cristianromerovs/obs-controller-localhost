@@ -1,0 +1,26 @@
+{
+  "name": "js-obs-controller",
+  "version": "1.0.0",
+  "description": "Intento de controlar obs con js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianromerovs/obs-js-controller.git"
+  },
+  "keywords": [
+    "obs",
+    "js"
+  ],
+  "author": "Cristian Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianromerovs/obs-js-controller/issues"
+  },
+  "homepage": "https://github.com/cristianromerovs/obs-js-controller#readme",
+  "dependencies": {
+    "obs-websocket-js": "^5.0.0-alpha.5"
+  }
+}
